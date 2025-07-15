@@ -13,6 +13,9 @@ LED (pilihan – untuk tunjuk status)
 
 Power bank / sambungan 5V dari kereta
 
+<img width="839" height="374" alt="image" src="https://github.com/user-attachments/assets/6509d2d8-2271-40f0-b60d-363517ec078a" />
+
+
 🔧 Litar Ringkas
 Komponen	Sambungan ke Arduino
 PIR Sensor OUT	pin 2
